@@ -1,0 +1,10 @@
+data,maquina,turno,produzidas,defeituosas
+2025-10-15,Máquina A,Manhã,120,5
+2025-10-15,Máquina B,Tarde,95,3
+2025-10-15,Máquina C,Noite,60,8
+2025-10-16,Máquina A,Manhã,110,4
+2025-10-16,Máquina B,Tarde,85,2
+2025-10-16,Máquina C,Noite,75,10
+2025-10-17,Máquina A,Manhã,130,6
+2025-10-17,Máquina B,Tarde,70,5
+2025-10-17,Máquina C,Noite,65,12
